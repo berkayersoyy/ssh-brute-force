@@ -1,0 +1,19 @@
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri 3. Hafta SSH Brute Force\Bilgi Sistemleri 3. Hafta SSH Brute Force\bin\Debug\net5.0\Bilgi Sistemleri 3. Hafta SSH Brute Force.exe
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri 3. Hafta SSH Brute Force\Bilgi Sistemleri 3. Hafta SSH Brute Force\bin\Debug\net5.0\Bilgi Sistemleri 3. Hafta SSH Brute Force.deps.json
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri 3. Hafta SSH Brute Force\Bilgi Sistemleri 3. Hafta SSH Brute Force\bin\Debug\net5.0\Bilgi Sistemleri 3. Hafta SSH Brute Force.runtimeconfig.json
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri 3. Hafta SSH Brute Force\Bilgi Sistemleri 3. Hafta SSH Brute Force\bin\Debug\net5.0\Bilgi Sistemleri 3. Hafta SSH Brute Force.runtimeconfig.dev.json
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri 3. Hafta SSH Brute Force\Bilgi Sistemleri 3. Hafta SSH Brute Force\bin\Debug\net5.0\Bilgi Sistemleri 3. Hafta SSH Brute Force.dll
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri 3. Hafta SSH Brute Force\Bilgi Sistemleri 3. Hafta SSH Brute Force\bin\Debug\net5.0\ref\Bilgi Sistemleri 3. Hafta SSH Brute Force.dll
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri 3. Hafta SSH Brute Force\Bilgi Sistemleri 3. Hafta SSH Brute Force\bin\Debug\net5.0\Bilgi Sistemleri 3. Hafta SSH Brute Force.pdb
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri 3. Hafta SSH Brute Force\Bilgi Sistemleri 3. Hafta SSH Brute Force\obj\Debug\net5.0\Bilgi Sistemleri 3. Hafta SSH Brute Force.csprojAssemblyReference.cache
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri 3. Hafta SSH Brute Force\Bilgi Sistemleri 3. Hafta SSH Brute Force\obj\Debug\net5.0\Bilgi Sistemleri 3. Hafta SSH Brute Force.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri 3. Hafta SSH Brute Force\Bilgi Sistemleri 3. Hafta SSH Brute Force\obj\Debug\net5.0\Bilgi Sistemleri 3. Hafta SSH Brute Force.AssemblyInfoInputs.cache
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri 3. Hafta SSH Brute Force\Bilgi Sistemleri 3. Hafta SSH Brute Force\obj\Debug\net5.0\Bilgi Sistemleri 3. Hafta SSH Brute Force.AssemblyInfo.cs
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri 3. Hafta SSH Brute Force\Bilgi Sistemleri 3. Hafta SSH Brute Force\obj\Debug\net5.0\Bilgi Sistemleri 3. Hafta SSH Brute Force.csproj.CoreCompileInputs.cache
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri 3. Hafta SSH Brute Force\Bilgi Sistemleri 3. Hafta SSH Brute Force\obj\Debug\net5.0\Bilgi Sistemleri 3. Hafta SSH Brute Force.dll
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri 3. Hafta SSH Brute Force\Bilgi Sistemleri 3. Hafta SSH Brute Force\obj\Debug\net5.0\ref\Bilgi Sistemleri 3. Hafta SSH Brute Force.dll
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri 3. Hafta SSH Brute Force\Bilgi Sistemleri 3. Hafta SSH Brute Force\obj\Debug\net5.0\Bilgi Sistemleri 3. Hafta SSH Brute Force.pdb
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri 3. Hafta SSH Brute Force\Bilgi Sistemleri 3. Hafta SSH Brute Force\obj\Debug\net5.0\Bilgi Sistemleri 3. Hafta SSH Brute Force.genruntimeconfig.cache
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri 3. Hafta SSH Brute Force\Bilgi Sistemleri 3. Hafta SSH Brute Force\bin\Debug\net5.0\Renci.SshNet.dll
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri 3. Hafta SSH Brute Force\Bilgi Sistemleri 3. Hafta SSH Brute Force\bin\Debug\net5.0\SshNet.Security.Cryptography.dll
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri 3. Hafta SSH Brute Force\Bilgi Sistemleri 3. Hafta SSH Brute Force\obj\Debug\net5.0\Bilgi Sistemleri 3. Hafta SSH Brute Force.csproj.CopyComplete
